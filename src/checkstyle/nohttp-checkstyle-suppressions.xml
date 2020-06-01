@@ -6,5 +6,5 @@
 	<suppress files="[\\/]build.log" checks="NoHttp"/>
 	<suppress files="LICENSE" checks="NoHttp"/>
 	<suppress files="mvn*" checks="NoHttp"/>
-	<suppress files=".+\.(jar|git|ico|p12|gif|jks|jpg|svg|txt|pom|xml|cmd)" checks="NoHttp"/>
+	<suppress files=".+\.(jar|git|ico|p12|gif|jks|jpg|svg|txt|pom|xml|cmd|properties|java)" checks="NoHttp"/>
 </suppressions>
